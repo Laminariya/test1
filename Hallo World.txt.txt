@@ -2,5 +2,5 @@ Print()
 Print("Hallo")
 Debag.Log("Error")
 //Отлично!!!
-
+//Изменения для ветки Hallo-advanced
 End

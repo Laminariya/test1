@@ -1,7 +1,7 @@
 Print()
-Print("Hallo")
-Debag.Log("Error")
-//Отлично!!!
+Print("Hallo;")
+Debag.Log("Error;")
+//Отлично!!!;
 //Изменения для ветки Hallo-advanced
 //Повторное изменение для Hallo-advanced
 End

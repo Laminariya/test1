@@ -1,2 +1,5 @@
 Print()
+
+Debag.Log("Error")
+
 End
